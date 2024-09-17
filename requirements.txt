@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+matplotlib
+lightgbm==2.2.3
+statsmodels
+patsy
